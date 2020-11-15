@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/workers</file>
+        <file>image/wall.png</file>
+        <file>image/box</file>
+        <file>image/sign</file>
+        <file>image/WIN.jpg</file>
+        <file>image/coin.jpg</file>
+        <file>image/good.png</file>
+        <file>image/best.png</file>
+    </qresource>
+</RCC>
